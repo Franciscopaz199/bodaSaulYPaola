@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bodaSaulYPaola/static/css/main.8c9dcee8.css",
+    "main.js": "/bodaSaulYPaola/static/js/main.15a42b06.js",
+    "static/js/787.cd5e6731.chunk.js": "/bodaSaulYPaola/static/js/787.cd5e6731.chunk.js",
+    "static/media/bod.jpeg": "/bodaSaulYPaola/static/media/bod.a23fbd2e80dd76d94baf.jpeg",
+    "index.html": "/bodaSaulYPaola/index.html",
+    "main.8c9dcee8.css.map": "/bodaSaulYPaola/static/css/main.8c9dcee8.css.map",
+    "main.15a42b06.js.map": "/bodaSaulYPaola/static/js/main.15a42b06.js.map",
+    "787.cd5e6731.chunk.js.map": "/bodaSaulYPaola/static/js/787.cd5e6731.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c9dcee8.css",
+    "static/js/main.15a42b06.js"
+  ]
+}
