@@ -92,16 +92,17 @@ const Agenda = () => {
                                         title="Dinámicas"
                                         description="Se realizaran dinámicas con los invitados, por parte de Jassiel Rodriguez"
                                    />
-                                   <ItemAgenda
+                                    <ItemAgenda
                                         number="12"
-                                        title="Corte de pastel"
-                                        description="Se realizara el corte de pastel"
-                                   />
-                                   <ItemAgenda
-                                        number="13"
                                         title="Brindis"
                                         description="Se realizara el brindis"
                                    />
+                                   <ItemAgenda
+                                        number="13"
+                                        title="Corte de pastel"
+                                        description="Se realizara el corte de pastel"
+                                   />
+                                  
                                    <ItemAgenda
                                         number="14"
                                         title="Espacio para Palabras"
