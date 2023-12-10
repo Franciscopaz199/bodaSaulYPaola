@@ -40,76 +40,81 @@ const Agenda = () => {
                                    />
                                    <ItemAgenda
                                         number="4"
-                                        title="Entrada de las damas de honor"
+                                        title="Entrada de las damas "
                                         description="Cindy Alvares y Lourdes Merlo<br/>
                                              Suany Avilez y Jassiel Rodriguez<br/>
                                              Clara Vargas e Isela Lainez<br/>
                                              Vielka Cruz y Yaneli Flores<br/>
                                         "
                                    />
-
-
                                    <ItemAgenda
                                         number="5"
                                         title="Entrada de la dama de honor"
                                         description="Karla Elizabeth Paz Flores <br>(Hermana de la novia)"
                                    />
-
                                    <ItemAgenda
                                         number="6"
+                                        title="Entrada de la novia"
+                                        description="Keila Paola Paz Flores acompañada de sus padres: <br>Matilde Flores y Pablo Paz"
+                                   />
+
+
+                                   <ItemAgenda
+                                        number="7"
                                         title="Participación especial por damas de honor"
                                         description="__"
                                    />
 
-                                   <ItemAgenda
-                                        number="7"
-                                        title="Alabanzas"
-                                        description=" Por Noel Rodriguez"
-                                   />
+
 
                               </div>
 
 
                               <div class="space-y-6 lg:space-y-10">
-
-                                   
                                    <ItemAgenda
                                         number="8"
-                                        title="Salida de los novios"
-                                        description="Por Paola Paz y Saul Sanabria"
+                                        title="Alabanzas"
+                                        description=" Por Noel Rodriguez"
                                    />
-
                                    <ItemAgenda
                                         number="9"
-                                        title="Espacio para fotos"
-                                        description="Se tomara un espacio para fotos con los recién esposos"
+                                        title="Reflexión y bendición"
+                                        description="Ministro Jose Santos Paz Carbajal"
                                    />
+
 
                                    <ItemAgenda
                                         number="10"
-                                        title="Comida"
-                                        description="Se servirá la comida"
+                                        title="Salida de los ahora esposos"
+                                        description="Paola Paz y Saul Sanabria"
                                    />
+
                                    <ItemAgenda
                                         number="11"
-                                        title="Dinámicas"
-                                        description="Se realizaran dinámicas con los invitados, por parte de Jassiel Rodriguez"
+                                        title="Espacio para fotos"
+                                        description="__"
                                    />
-                                    <ItemAgenda
+
+                                   <ItemAgenda
                                         number="12"
-                                        title="Brindis"
-                                        description="Se realizara el brindis"
+                                        title="Comida"
+                                        description="__"
                                    />
                                    <ItemAgenda
                                         number="13"
-                                        title="Corte de pastel"
-                                        description="Se realizara el corte de pastel"
+                                        title="Dinámicas"
+                                        description="Jassiel Rodriguez"
                                    />
-                                  
                                    <ItemAgenda
                                         number="14"
+                                        title="Corte de pastel"
+                                        description="__"
+                                   />
+
+                                   <ItemAgenda
+                                        number="15"
                                         title="Espacio para Palabras"
-                                        description="Se dará un espacio para palabras de los invitados"
+                                        description="__"
                                    />
 
 
