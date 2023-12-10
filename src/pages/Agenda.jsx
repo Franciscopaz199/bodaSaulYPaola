@@ -36,32 +36,35 @@ const Agenda = () => {
                                    <ItemAgenda
                                         number="3"
                                         title="Entrada del novio"
-                                        description="Por Saul Sanabria acompañado de sus padres (Silvia Cruz y Donaldo Sanabria )"
+                                        description="Saul Ernesto Sanabria Cruz acompañado de sus padres: <br>Silvia Cruz y Donaldo Sanabria"
                                    />
                                    <ItemAgenda
                                         number="4"
-                                        title="Entrada de las damas"
-                                        description="Las damas de honor entraran a la ceremonia"
+                                        title="Entrada de las damas de honor"
+                                        description="Cindy Alvares y Lourdes Merlo<br/>
+                                             Suany Avilez y Jassiel Rodriguez<br/>
+                                             Clara Vargas e Isela Lainez<br/>
+                                             Vielka Cruz y Yaneli Flores<br/>
+                                        "
                                    />
 
 
                                    <ItemAgenda
                                         number="5"
-                                        title="Entrada de la novia"
-                                        description="Por Paola Paz acompañada de sus padres (Pablo Paz y Matilde Flores)"
+                                        title="Entrada de la dama de honor"
+                                        description="Karla Elizabeth Paz Flores <br>(Hermana de la novia)"
                                    />
-
 
                                    <ItemAgenda
                                         number="6"
-                                        title="Participación de las damas"
-                                        description=" Las damas de honor participaran en la ceremonia"
+                                        title="Participación especial por damas de honor"
+                                        description="__"
                                    />
 
                                    <ItemAgenda
                                         number="7"
-                                        title="Predica"
-                                        description=" José Santos Paz (Ministro de la iglesia de Dios del 7mo día)"
+                                        title="Alabanzas"
+                                        description=" Por Noel Rodriguez"
                                    />
 
                               </div>
