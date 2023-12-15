@@ -117,17 +117,18 @@ const Agenda = () => {
                                         title="Dinámicas"
                                         description="Jassiel Rodriguez"
                                    />
+
                                    <ItemAgenda
                                         number="16"
+                                        title="Espacio para Palabras"
+                                        description="__"
+                                   />
+                                   <ItemAgenda
+                                        number="17"
                                         title="Corte de pastel"
                                         description="__"
                                    />
 
-                                   <ItemAgenda
-                                        number="17"
-                                        title="Espacio para Palabras"
-                                        description="__"
-                                   />
 
 
 
