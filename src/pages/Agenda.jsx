@@ -54,65 +54,77 @@ const Agenda = () => {
                                    />
                                    <ItemAgenda
                                         number="6"
-                                        title="Entrada de la novia"
-                                        description="Keila Paola Paz Flores acompañada de sus padres: <br>Matilde Flores y Pablo Paz"
+                                        title="Niños de los cojines"
+                                        description="David Paz y Mateo Paz"
+                                   />
+                                   <ItemAgenda
+                                        number="7"
+                                        title="Anuncio ahí viene la novia"
+                                        description="Alexander Muñoz Cruz"
                                    />
 
 
                                    <ItemAgenda
-                                        number="7"
-                                        title="Participación especial por damas de honor"
-                                        description="__"
+                                        number="8"
+                                        title="Entrada de la novia"
+                                        description="Keila Paola Paz Flores acompañada de sus padres: <br>Matilde Flores y Pablo Paz"
                                    />
-
 
 
                               </div>
 
 
                               <div class="space-y-6 lg:space-y-10">
+
                                    <ItemAgenda
-                                        number="8"
+                                        number="9"
+                                        title="Participación especial por damas de honor"
+                                        description="__"
+                                   />
+
+
+                                   <ItemAgenda
+                                        number="10"
                                         title="Alabanzas"
                                         description=" Por Noel Rodriguez"
                                    />
                                    <ItemAgenda
-                                        number="9"
+                                        number="11"
                                         title="Reflexión y bendición"
                                         description="Ministro Jose Santos Paz Carbajal"
                                    />
 
 
                                    <ItemAgenda
-                                        number="10"
+                                        number="12"
                                         title="Salida de los ahora esposos"
                                         description="Paola Paz y Saul Sanabria"
                                    />
 
                                    <ItemAgenda
-                                        number="11"
+                                        number="13"
                                         title="Espacio para fotos"
                                         description="__"
                                    />
 
                                    <ItemAgenda
-                                        number="12"
+                                        number="14"
                                         title="Comida"
                                         description="__"
                                    />
                                    <ItemAgenda
-                                        number="13"
+                                        number="15"
                                         title="Dinámicas"
                                         description="Jassiel Rodriguez"
                                    />
                                    <ItemAgenda
-                                        number="14"
+                                        number="16"
                                         title="Corte de pastel"
                                         description="__"
                                    />
 
                                    <ItemAgenda
-                                        number="15"
+                                        number="17"
                                         title="Espacio para Palabras"
                                         description="__"
                                    />
